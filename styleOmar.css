@@ -105,7 +105,7 @@ font-weight: 700;
 margin-bottom: 40px;
 }
 .co{
-   display: flex;
+  display: flex;
    justify-content: center;
    flex-direction: row;
    flex-wrap: wrap;
@@ -125,6 +125,7 @@ margin-bottom: 40px;
     transform: scale(1.1);
 }
 .icon{
+    
     color:#9B287B ;
     font-size: 8em;
     text-align: center;
@@ -196,7 +197,7 @@ opacity: 0.9;
     background-color: #170f11;
     color: #ecf8f2;
     padding: 2em;
-    display: flex;
+ display: flex;
     justify-content: space-between;
 }
 .foterTitle{
